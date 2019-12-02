@@ -1,0 +1,16 @@
+:root {
+  --sn-stylekit-info-color: #7376bf;
+  --sn-stylekit-secondary-foreground-color: #3f4151;
+  --sn-stylekit-secondary-contrast-foreground-color: #3f4151;
+  --sn-stylekit-general-border-radius: 5px;
+  /* Fonts */
+  --sn-stylekit-base-font-size: 14px;
+  --sn-stylekit-font-size-h1: 1.5rem;
+  --sn-stylekit-font-size-h2: 1.2rem;
+  --sn-stylekit-font-size-h3: 1.1rem;
+  --sn-stylekit-font-size-editor: 1.15rem;
+  --sn-stylekit-monospace-font: 'Menlo', 'Monaco', 'Courier New', monospace;
+  --sn-stylekit-sans-serif-font: 'Avenir', 'Roboto', 'Fira Sans', 'Helvetica Neue', sans-serif;
+}
+
+/*# sourceMappingURL=dist.css.map */
